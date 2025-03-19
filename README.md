@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Atharva Mutsaddi</h1>
-<h3 align="center">A developer for fun who keeps 90% of his projects private</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvamutsaddi&label=Profile%20views&color=0e75b6&style=flat" alt="atharvamutsaddi" /> </p>
 
